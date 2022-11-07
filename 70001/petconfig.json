@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "id": 2,
+            "itemPosNodesname": {
+                "tip": "speedballTipPosNode"
+            },
+            "speedballShowParam": "ParamSpeedball",
+            "speedballNum1": "shiwei",
+            "speedballNum2": "gewei",
+            "speedballWater": "Param303",
+            "speedballTipShowArea": "gun_R",
+            "speedballTipShowAreaSize": "gun_size_R",
+            "speedballTipShowAreaLight": "light_R",
+            "speedballWaterHaloShowParam": "",
+            "speedballWaterHaloAngle": "",
+            "speedballColorParam": "Param121"
+        },
+		{
+            "id": 3,
+            "menuStyle": 1
+        },
+		{
+            "id": 4,
+            "dubaLogoHoverAction": 1,
+			"dubaLogoHoverAction": 2,
+			"timeOutWaitTime": 2.0,
+			"dubaLogoTipShowArea": "fajia",
+            "dubaLogoTipShowAreaSize": "fajia_size",
+            "dubaLogoTipShowAreaLight": "fajia_light"
+        },
+		{
+            "id": 5,
+            "trashCleanHoverAction": 1,
+			"trashCleanClickAction": 2,
+			"timeOutWaitTime": 2.0,
+			"trashCleanTipShowArea": "gun_L",
+            "trashCleanTipShowAreaSize": "gun_size_L",
+            "trashCleanTipShowAreaLight": "light_L"
+        }
+    ]
+}

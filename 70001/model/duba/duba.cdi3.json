@@ -1,0 +1,987 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup2",
+			"Name": "Rdabi"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup2",
+			"Name": "Rdabishensuo"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "Rxiaobi"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "Rshouzhang"
+		},
+		{
+			"Id": "Param50",
+			"GroupId": "ParamGroup2",
+			"Name": "Rhand"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup2",
+			"Name": "Ldabi"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup2",
+			"Name": "Ldabishensuo"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup2",
+			"Name": "Lxiaobi"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup2",
+			"Name": "Lshouzhang"
+		},
+		{
+			"Id": "Param84",
+			"GroupId": "ParamGroup2",
+			"Name": "Lhand"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup6",
+			"Name": "Leyeopen"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "Leyesmile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup6",
+			"Name": "Reyeopen"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup6",
+			"Name": "Reyesmile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup6",
+			"Name": "eyeballX"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup6",
+			"Name": "eyeballY"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup6",
+			"Name": "Lmeishangxia"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup6",
+			"Name": "Rmeishangxia"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup6",
+			"Name": "Lmeibianxing"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup6",
+			"Name": "Rmeibianxing"
+		},
+		{
+			"Id": "Param85",
+			"GroupId": "ParamGroup6",
+			"Name": "Rmeijiaodu"
+		},
+		{
+			"Id": "Param86",
+			"GroupId": "ParamGroup6",
+			"Name": "Lmeijiaodu"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup6",
+			"Name": "zuibianxing"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup6",
+			"Name": "zuiopen"
+		},
+		{
+			"Id": "Param57",
+			"GroupId": "ParamGroup6",
+			"Name": "juezui"
+		},
+		{
+			"Id": "Param71",
+			"GroupId": "ParamGroup6",
+			"Name": "weiqu"
+		},
+		{
+			"Id": "Param78",
+			"GroupId": "ParamGroup6",
+			"Name": "jingyazui"
+		},
+		{
+			"Id": "Param58",
+			"GroupId": "ParamGroup6",
+			"Name": "Xzui"
+		},
+		{
+			"Id": "Param67",
+			"GroupId": "ParamGroup6",
+			"Name": "newlianhong"
+		},
+		{
+			"Id": "Param68",
+			"GroupId": "ParamGroup6",
+			"Name": "lianhong"
+		},
+		{
+			"Id": "Param69",
+			"GroupId": "ParamGroup6",
+			"Name": "saihong"
+		},
+		{
+			"Id": "Param65",
+			"GroupId": "ParamGroup",
+			"Name": "jingyaxianshi"
+		},
+		{
+			"Id": "Param66",
+			"GroupId": "ParamGroup",
+			"Name": "jingya"
+		},
+		{
+			"Id": "Param61",
+			"GroupId": "ParamGroup",
+			"Name": "shengqixianshi"
+		},
+		{
+			"Id": "Param62",
+			"GroupId": "ParamGroup",
+			"Name": "shengqilogo"
+		},
+		{
+			"Id": "Param81",
+			"GroupId": "ParamGroup",
+			"Name": "shengqi"
+		},
+		{
+			"Id": "Param59",
+			"GroupId": "ParamGroup",
+			"Name": "hanshuixianshi"
+		},
+		{
+			"Id": "Param60",
+			"GroupId": "ParamGroup",
+			"Name": "hanshui"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "aixinxianshi"
+		},
+		{
+			"Id": "Param51",
+			"GroupId": "ParamGroup",
+			"Name": "starxianshi"
+		},
+		{
+			"Id": "Param52",
+			"GroupId": "ParamGroup",
+			"Name": "Rstar"
+		},
+		{
+			"Id": "Param53",
+			"GroupId": "ParamGroup",
+			"Name": "Rstarhuangdong"
+		},
+		{
+			"Id": "Param54",
+			"GroupId": "ParamGroup",
+			"Name": "Lstar"
+		},
+		{
+			"Id": "Param55",
+			"GroupId": "ParamGroup",
+			"Name": "Lstarhuangdong"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "aixin"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup",
+			"Name": "dazhaohu"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup",
+			"Name": "natoufa"
+		},
+		{
+			"Id": "Param79",
+			"GroupId": "ParamGroup",
+			"Name": "wantoufaX"
+		},
+		{
+			"Id": "Param80",
+			"GroupId": "ParamGroup",
+			"Name": "wantoufaY"
+		},
+		{
+			"Id": "Param87",
+			"GroupId": "ParamGroup",
+			"Name": "wantoufaX2"
+		},
+		{
+			"Id": "Param88",
+			"GroupId": "ParamGroup",
+			"Name": "wantoufaY2"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "ParamGroup",
+			"Name": "duigou"
+		},
+		{
+			"Id": "Param63",
+			"GroupId": "ParamGroup",
+			"Name": "daqiang"
+		},
+		{
+			"Id": "Param64",
+			"GroupId": "ParamGroup",
+			"Name": "daqiangzhengfan"
+		},
+		{
+			"Id": "Param_Angle_Rotation5",
+			"GroupId": "ParamGroup3",
+			"Name": "maewi1-2"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei1-3"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei1-4"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei1-5"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei1-6"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei2-2"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei2-3"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei2-4"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "maiwei2-5"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup3",
+			"Name": "mawei2-6"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup3",
+			"Name": "daimao1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup3",
+			"Name": "daimao2"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup3",
+			"Name": "liuhai1-1"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup3",
+			"Name": "liuhai1-2"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup3",
+			"Name": "liuhai2-1"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup3",
+			"Name": "liuhai2-2"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup3",
+			"Name": "liuhai3-1"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup3",
+			"Name": "liuhai3-2"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup3",
+			"Name": "cefa1-1"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup3",
+			"Name": "cefa1-2"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup3",
+			"Name": "cefa2-1"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup3",
+			"Name": "cefa2-2"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie1-1"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie1-2"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie2-1"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie2-2"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie3-1"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie3-2"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie4-1"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup3",
+			"Name": "hudiejie4-2"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup3",
+			"Name": "qunzi1-1"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup3",
+			"Name": "qunzi1-2"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup3",
+			"Name": "qunzi2-1"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup3",
+			"Name": "qunzi2-2"
+		},
+		{
+			"Id": "fajiafaguang",
+			"GroupId": "ParamGroup4",
+			"Name": "fajiafaguang"
+		},
+		{
+			"Id": "Param70",
+			"GroupId": "ParamGroup4",
+			"Name": "laji"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup4",
+			"Name": "Logo-L"
+		},
+		{
+			"Id": "Param72",
+			"GroupId": "ParamGroup4",
+			"Name": "qiangLX"
+		},
+		{
+			"Id": "Param73",
+			"GroupId": "ParamGroup4",
+			"Name": "qiangLY"
+		},
+		{
+			"Id": "Param77",
+			"GroupId": "ParamGroup4",
+			"Name": "qiangLZ"
+		},
+		{
+			"Id": "Param119",
+			"GroupId": "ParamGroup4",
+			"Name": "shuipao1"
+		},
+		{
+			"Id": "Param120",
+			"GroupId": "ParamGroup4",
+			"Name": "shuizhu"
+		},
+		{
+			"Id": "Param56",
+			"GroupId": "ParamGroup4",
+			"Name": "logoR"
+		},
+		{
+			"Id": "Param74",
+			"GroupId": "ParamGroup4",
+			"Name": "qiangRX"
+		},
+		{
+			"Id": "Param75",
+			"GroupId": "ParamGroup4",
+			"Name": "qiangRY"
+		},
+		{
+			"Id": "Param76",
+			"GroupId": "ParamGroup4",
+			"Name": "qiangRZ"
+		},
+		{
+			"Id": "Param118",
+			"GroupId": "ParamGroup4",
+			"Name": "shuipao2"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqiandaxiao1"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqiandaxiao2"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqiandaxiao3"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqianshangxia1"
+		},
+		{
+			"Id": "Param89",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqianshangxia2"
+		},
+		{
+			"Id": "Param90",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqianshangxia3"
+		},
+		{
+			"Id": "Param91",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanchuxian"
+		},
+		{
+			"Id": "Param92",
+			"GroupId": "ParamGroup4",
+			"Name": "shuidixianshi"
+		},
+		{
+			"Id": "Param93",
+			"GroupId": "ParamGroup4",
+			"Name": "shuidiX"
+		},
+		{
+			"Id": "Param94",
+			"GroupId": "ParamGroup4",
+			"Name": "shuidiY"
+		},
+		{
+			"Id": "Param95",
+			"GroupId": "ParamGroup4",
+			"Name": "shuidibianhuan"
+		},
+		{
+			"Id": "Param96",
+			"GroupId": "ParamGroup4",
+			"Name": "shuidibianhuan2"
+		},
+		{
+			"Id": "Param98",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqiandaxiao2-1"
+		},
+		{
+			"Id": "Param99",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqiandaxiao2-2"
+		},
+		{
+			"Id": "Param100",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqiandaxiao2-3"
+		},
+		{
+			"Id": "Param101",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqianshangxia2-1"
+		},
+		{
+			"Id": "Param102",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqianshangxia2-2"
+		},
+		{
+			"Id": "Param103",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanqianshangxia2-3"
+		},
+		{
+			"Id": "Param97",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanchuxian2"
+		},
+		{
+			"Id": "Param112",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoudaxiao3-1"
+		},
+		{
+			"Id": "Param113",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoudaxiao3-2"
+		},
+		{
+			"Id": "Param114",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoudaxiao3-3"
+		},
+		{
+			"Id": "Param115",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoushangxia3-1"
+		},
+		{
+			"Id": "Param116",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoushangxia3-2"
+		},
+		{
+			"Id": "Param117",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoushangxia3-3"
+		},
+		{
+			"Id": "Param105",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanchuxian3"
+		},
+		{
+			"Id": "Param106",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoudaxiao4-1"
+		},
+		{
+			"Id": "Param107",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoudaxiao4-2"
+		},
+		{
+			"Id": "Param108",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoudaxiao4-3"
+		},
+		{
+			"Id": "Param109",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoushangxia4-1"
+		},
+		{
+			"Id": "Param110",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoushangxia4-2"
+		},
+		{
+			"Id": "Param111",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanhoushangxia4-3"
+		},
+		{
+			"Id": "Param104",
+			"GroupId": "ParamGroup4",
+			"Name": "shuihuanchuxian4"
+		},
+		{
+			"Id": "shiwei",
+			"GroupId": "ParamGroup5",
+			"Name": "shiwei"
+		},
+		{
+			"Id": "gewei",
+			"GroupId": "ParamGroup5",
+			"Name": "gewei"
+		},
+		{
+			"Id": "Param121",
+			"GroupId": "ParamGroup5",
+			"Name": "Color"
+		},
+		{
+			"Id": "light_R",
+			"GroupId": "ParamGroup5",
+			"Name": "light_R"
+		},
+		{
+			"Id": "light_L",
+			"GroupId": "ParamGroup5",
+			"Name": "light_L"
+		},
+		{
+			"Id": "gun_size_L",
+			"GroupId": "ParamGroup5",
+			"Name": "gun_size_L"
+		},
+		{
+			"Id": "gun_size_R",
+			"GroupId": "ParamGroup5",
+			"Name": "gun_size_R"
+		},
+		{
+			"Id": "fajia_size",
+			"GroupId": "ParamGroup5",
+			"Name": "fajia_size"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "headX"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "headY"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "headZ"
+		},
+		{
+			"Id": "Param82",
+			"GroupId": "",
+			"Name": "allX"
+		},
+		{
+			"Id": "Param83",
+			"GroupId": "",
+			"Name": "allY"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "Lmeizuoyou"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "Rmeizuoyou"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "Lmeijiaodu"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "Rmeijiaodu"
+		},
+		{
+			"Id": "hitareas",
+			"GroupId": "",
+			"Name": "hitareas"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "face"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "bodyX"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "bodyY"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "bodyZ"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "hairfront"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "hairside"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "hairback"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "1"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "2"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "3"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "4"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "5"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "6"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "1"
+		},
+		{
+			"Id": "Part3",
+			"Name": "1"
+		},
+		{
+			"Id": "Part6",
+			"Name": "1"
+		},
+		{
+			"Id": "Part4",
+			"Name": "1"
+		},
+		{
+			"Id": "Part30",
+			"Name": "1"
+		},
+		{
+			"Id": "Part17",
+			"Name": "1"
+		},
+		{
+			"Id": "Part28",
+			"Name": "1"
+		},
+		{
+			"Id": "Part19",
+			"Name": "1"
+		},
+		{
+			"Id": "Part20",
+			"Name": "1"
+		},
+		{
+			"Id": "Part7",
+			"Name": "1"
+		},
+		{
+			"Id": "Part21",
+			"Name": "1"
+		},
+		{
+			"Id": "Part25",
+			"Name": "1"
+		},
+		{
+			"Id": "Part26",
+			"Name": "1"
+		},
+		{
+			"Id": "Part",
+			"Name": "1"
+		},
+		{
+			"Id": "Part31",
+			"Name": "1"
+		},
+		{
+			"Id": "Part29",
+			"Name": "1"
+		},
+		{
+			"Id": "Part13",
+			"Name": "1"
+		},
+		{
+			"Id": "Part14",
+			"Name": "1"
+		},
+		{
+			"Id": "Part15",
+			"Name": "1"
+		},
+		{
+			"Id": "Part11",
+			"Name": "1"
+		},
+		{
+			"Id": "Part12",
+			"Name": "1"
+		},
+		{
+			"Id": "Part16",
+			"Name": "1"
+		},
+		{
+			"Id": "Part18",
+			"Name": "1"
+		},
+		{
+			"Id": "Part33",
+			"Name": "1"
+		},
+		{
+			"Id": "Part32",
+			"Name": "1"
+		},
+		{
+			"Id": "Part35",
+			"Name": "1"
+		},
+		{
+			"Id": "Part27",
+			"Name": "1"
+		},
+		{
+			"Id": "Part34",
+			"Name": "1"
+		},
+		{
+			"Id": "Part9",
+			"Name": "1"
+		},
+		{
+			"Id": "Part22",
+			"Name": "1"
+		},
+		{
+			"Id": "Part23",
+			"Name": "1"
+		},
+		{
+			"Id": "Part24",
+			"Name": "1"
+		},
+		{
+			"Id": "Part10",
+			"Name": "1"
+		},
+		{
+			"Id": "ArtMesh133_Skinning",
+			"Name": "1"
+		},
+		{
+			"Id": "Part8",
+			"Name": "1"
+		},
+		{
+			"Id": "ArtMesh122_Skinning2",
+			"Name": "1"
+		},
+		{
+			"Id": "ArtMesh122_Skinning",
+			"Name": "1"
+		}
+	]
+}
