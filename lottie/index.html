@@ -1,0 +1,32 @@
+<!--
+    We simply load index.json as a Lottie animation and play it here.
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Lottie Animation</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.9.6/lottie.min.js"></script>
+</head>
+
+<body>
+    <div id="lottie"></div>
+    <script>
+        var animation = bodymovin.loadAnimation({
+            container: document.getElementById('lottie'),
+            renderer: 'svg',
+            loop: false,
+            autoplay: true,
+            assetsPath: 'images/',
+            path: 'index.json'
+        });
+        // Then we check if it has been played for once
+        animation.addEventListener('complete', function () {
+            // If it has been played for once, we play it again
+            animation.playSegments([84, 116], true);
+        });
+    </script>
+</body>
+
+</html>
