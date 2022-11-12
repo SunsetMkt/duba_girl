@@ -1,0 +1,27 @@
+html { height: 100% !important; overflow:auto !important; scroll-behavior: auto; }
+body { height: 100% !important; scroll-behavior: auto; }
+/*::-webkit-scrollbar {*/
+/*  width: 10px;*/
+/*  height: 10px*/
+/*}*/
+
+/*::-webkit-scrollbar-track-piece {*/
+/*  background: rgba(79,111,127,0)*/
+/*}*/
+
+/*::-webkit-scrollbar-track:hover {*/
+/*  background: rgba(78,110,125,.05)*/
+/*}*/
+
+/*::-webkit-scrollbar-thumb {*/
+/*  background-color: hsla(0,0%,51%,.5);*/
+/*  background-clip: padding-box;*/
+/*  border: 2px solid transparent;*/
+/*  border-radius: 6px*/
+/*}*/
+
+
+/*::-webkit-scrollbar-thumb:hover {*/
+/*  background-color: hsla(0,0%,51%,.7)*/
+/*}*/
+
