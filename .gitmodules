@@ -1,0 +1,3 @@
+[submodule "BilibiliGetDynamics"]
+	path = BilibiliGetDynamics
+	url = https://github.com/Starrah/BilibiliGetDynamics.git
