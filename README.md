@@ -23,3 +23,6 @@
 
 ## pics和result.json
 使用Starrah/BilibiliGetDynamics保存[毒霸少女](https://space.bilibili.com/1266594350)的哔哩哔哩动态内容
+
+## vids
+使用[nilaoda/BBDown](https://github.com/nilaoda/BBDown)下载[毒霸少女](https://space.bilibili.com/1266594350)的哔哩哔哩视频
