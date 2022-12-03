@@ -9,7 +9,7 @@
 
 <body>
     <!--Full screen loop video-->
-    <div class="container">
+    <div class="container" id="container">
         <video autoplay loop muted>
             <source src="vids/国风毒霸姬.mp4" type="video/mp4">
         </video>
@@ -38,6 +38,21 @@
             display: flex;
             justify-content: center;
             align-items: center;
+        }
+
+        body {
+            /** No select*/
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            /** No content menu*/
+            -webkit-touch-callout: none;
+            -webkit-user-drag: none;
+            /** No right click*/
+            -webkit-context-menu: none;
+            /** No scroll*/
+            overflow: hidden;
         }
     </style>
     <script>
