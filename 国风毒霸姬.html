@@ -11,7 +11,7 @@
     <!--Full screen loop video-->
     <div class="container" id="container">
         <video autoplay loop muted>
-            <source src="vids/国风毒霸姬.mp4" type="video/mp4">
+            <source src="vids/国风毒霸姬_x264.mp4" type="video/mp4">
         </video>
     </div>
 
@@ -69,6 +69,16 @@
             }
         });
     </script>
+    <!--prevent tiny pause when movies loop-->
+    <!--
+    <script>
+        var vid = document.getElementsByTagName("video")[0];
+        vid.addEventListener('ended', function () {
+            this.currentTime = 0;
+            this.play();
+        }, false);
+    </script>
+    -->
 </body>
 
 </html>
