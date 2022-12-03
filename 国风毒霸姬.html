@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>国风毒霸姬</title>
+</head>
+
+<body>
+    <!--Full screen loop video-->
+    <div class="container">
+        <video autoplay loop muted>
+            <source src="vids/国风毒霸姬.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <style>
+        /**
+        Responsive video fullscreen
+        */
+        video {
+            width: 100%;
+            height: auto;
+        }
+
+        .container {
+            /** Full page*/
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: rgb(255, 255, 255);
+
+            /** Center video*/
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+    <script>
+        // On click, set full screen
+        document.getElementById("container").addEventListener("click", function () {
+            if (this.requestFullscreen) {
+                this.requestFullscreen();
+            } else if (this.mozRequestFullScreen) {
+                this.mozRequestFullScreen();
+            } else if (this.webkitRequestFullscreen) {
+                this.webkitRequestFullscreen();
+            } else if (this.msRequestFullscreen) {
+                this.msRequestFullscreen();
+            }
+        });
+    </script>
+</body>
+
+</html>
