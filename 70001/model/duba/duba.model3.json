@@ -21,27 +21,6 @@
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
-			],
-			"fun_cleanW1": [
-				{
-					"File": "motions/fun_cleanW1.motion3.json",
-					"FadeInTime": 0.02,
-					"FadeOutTime": 0
-				}
-			],			
-			"fun_cleanW2": [
-				{
-					"File": "motions/fun_cleanW2.motion3.json",
-					"FadeInTime": 0.02,
-					"FadeOutTime": 0
-				}
-			],				
-			"fun_cleanW3": [
-				{
-					"File": "motions/fun_cleanW3.motion3.json",
-					"FadeInTime": 0.02,
-					"FadeOutTime": 0
-				}
 			],					
 			"fun_ignore1": [
 				{
@@ -49,14 +28,7 @@
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
-			],
-			"fun_ignore2": [
-				{
-					"File": "motions/fun_ignore2.motion3.json",
-					"FadeInTime": 0.02,
-					"FadeOutTime": 0
-				}
-			],			
+			],		
 			"fun_intercept": [
 				{
 					"File": "motions/fun_intercept.motion3.json",
@@ -67,13 +39,6 @@
 			"login": [
 				{
 					"File": "motions/login.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"margin": [
-				{
-					"File": "motions/margin.motion3.json",
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
@@ -120,6 +85,13 @@
 					"FadeOutTime": 0
 				}
 			],
+			"normal": [
+				{
+					"File": "motions/normal.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
 			"quit": [
 				{
 					"File": "motions/quit.motion3.json",
@@ -161,66 +133,10 @@
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
-			],
-			"stb_introduce": [
-				{
-					"File": "motions/stb_introduce.motion3.json",
-					"FadeInTime": 0.02,
-					"FadeOutTime": 0
-				}
-			],			
+			],		
 			"stb_normal": [
 				{
 					"File": "motions/stb_normal.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"normal": [
-				{
-					"File": "motions/normal.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"stb_shoot": [
-				{
-					"File": "motions/stb_shoot.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"touch_faceL": [
-				{
-					"File": "motions/touch_faceL.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"touch_faceR": [
-				{
-					"File": "motions/touch_faceR.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"touch_gun": [
-				{
-					"File": "motions/touch_gun.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"touch_head1": [
-				{
-					"File": "motions/touch_head1.motion3.json",
-					"FadeInTime": 0,
-					"FadeOutTime": 0
-				}
-			],
-			"touch_head2": [
-				{
-					"File": "motions/touch_head2.motion3.json",
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
@@ -267,16 +183,51 @@
 					"FadeOutTime": 0
 				}
 			],
-			"stb_normal_stb_expect": [
+			"stb_shoot": [
 				{
-					"File": "motions/stb_normal_stb_expect.motion3.json",
+					"File": "motions/stb_shoot.motion3.json",
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
 			],
-			"stb_normal_stb_introduce": [
+			"touch_faceL": [
 				{
-					"File": "motions/stb_normal_stb_introduce.motion3.json",
+					"File": "motions/touch_faceL.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"touch_faceR": [
+				{
+					"File": "motions/touch_faceR.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"touch_gun": [
+				{
+					"File": "motions/touch_gun.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"touch_head1": [
+				{
+					"File": "motions/touch_head1.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"touch_head2": [
+				{
+					"File": "motions/touch_head2.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"touch_legring": [
+				{
+					"File": "motions/touch_legring.motion3.json",
 					"FadeInTime": 0,
 					"FadeOutTime": 0
 				}
@@ -336,6 +287,22 @@
 		{
 			"Name": "gun_R",
 			"Id": "gun_R"
+		},
+		{
+			"Name": "tap_daimao",
+			"Id": "tap_daimao"
+		},
+		{
+			"Name": "tap_tuihuan",
+			"Id": "tap_tuihuan"
+		},
+		{
+			"Name": "tap_hair_L",
+			"Id": "tap_hair_L"
+		},
+		{
+			"Name": "tap_hair_R",
+			"Id": "tap_hair_R"
 		}
 	]
 }

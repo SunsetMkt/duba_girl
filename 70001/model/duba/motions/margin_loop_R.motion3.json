@@ -5,9 +5,9 @@
 		"Fps": 30.0,
 		"Loop": true,
 		"AreBeziersRestricted": true,
-		"CurveCount": 190,
-		"TotalSegmentCount": 284,
-		"TotalPointCount": 892,
+		"CurveCount": 189,
+		"TotalSegmentCount": 283,
+		"TotalPointCount": 890,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
@@ -2634,7 +2634,7 @@
 		},
 		{
 			"Target": "Parameter",
-			"Id": "Param37",
+			"Id": "hitareas",
 			"Segments": [
 				0,
 				0,
@@ -2800,17 +2800,6 @@
 				0,
 				3,
 				0
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "__RootPart__",
-			"Segments": [
-				0,
-				1,
-				0,
-				3,
-				1
 			]
 		},
 		{
