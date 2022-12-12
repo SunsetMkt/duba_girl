@@ -31,3 +31,6 @@ sound文件夹内为语音文件，未包含在amp文件中。
 
 ## vids
 使用[nilaoda/BBDown](https://github.com/nilaoda/BBDown)下载[毒霸少女](https://space.bilibili.com/1266594350)的哔哩哔哩视频
+
+## wallpaper
+金山毒霸青春版护眼模式壁纸，缓存位置`%APPDATA%\khealtheye\wallpaper\`，尚未获得壁纸更新API。
