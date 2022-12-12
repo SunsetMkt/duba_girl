@@ -15,6 +15,9 @@
 ## young.duba.net
 文件夹内是金山毒霸青春版的宣传页，包含“金山毒霸吉祥物”/“[毒霸少女](https://space.bilibili.com/1266594350)”的Lottie动画。
 
+## young.duba.net.new
+更新后官网Lottie动画，只保留有价值的部分，Spirite以Base64编码存储。
+
 ## lottie
 文件夹内包含index和“金山毒霸吉祥物”/“毒霸少女”动画的剥离版。
 
