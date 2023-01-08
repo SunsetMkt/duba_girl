@@ -1,9 +1,24 @@
-[7940 |2023-01-06 16:34:55|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwininit -role_show=1
-[7940 |2023-01-06 16:35:15|   INFO|KVirtualAssistantCtrl.cpp:49] KVirtualAssistantCtrl::Initialize c:\program files (x86)\kingsoft\kingsoft antivirus\c:\program files (x86)\kingsoft\kingsoft antivirus\app\assistant\
-[7940 |2023-01-06 16:35:15|   INFO|KAppSingleModule.cpp:134] CreateHideWnd
-[7940 |2023-01-06 16:35:15|   INFO|KAppSingleModule.cpp:169] StartMsgLoop
-[7940 |2023-01-06 16:37:00|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=0
-[7940 |2023-01-06 16:38:12|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
-[7940 |2023-01-06 16:39:37|   INFO|KAppCmdParser.cpp:19] ParseCmd-permission_name=assistant -exit
-[7940 |2023-01-06 16:39:37|   INFO|KAppSingleModule.cpp:99] WM_DESTROY
-[7940 |2023-01-06 16:39:37|   INFO|KAppSingleModule.cpp:177] WM_QUIT
+[7548 |2023-01-09 00:02:20|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwininit -role_show=1
+[7548 |2023-01-09 00:02:40|   INFO|KVirtualAssistantCtrl.cpp:49] KVirtualAssistantCtrl::Initialize c:\program files (x86)\kingsoft\kingsoft antivirus\c:\program files (x86)\kingsoft\kingsoft antivirus\app\assistant\
+[7548 |2023-01-09 00:02:40|   INFO|KAppSingleModule.cpp:134] CreateHideWnd
+[7548 |2023-01-09 00:02:40|   INFO|KAppSingleModule.cpp:169] StartMsgLoop
+[7548 |2023-01-09 00:02:43|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -apply_role=70001
+[7548 |2023-01-09 00:02:43|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -apply_role=70001
+[7548 |2023-01-09 00:02:43|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7548 |2023-01-09 00:02:43|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7548 |2023-01-09 00:04:09|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=0
+[7548 |2023-01-09 00:04:19|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7548 |2023-01-09 00:10:01|   INFO|KAppCmdParser.cpp:19] ParseCmd-permission_name=assistant -exit
+[7548 |2023-01-09 00:10:01|   INFO|KAppSingleModule.cpp:99] WM_DESTROY
+[7548 |2023-01-09 00:10:01|   INFO|KAppSingleModule.cpp:177] WM_QUIT
+[2944 |2023-01-09 00:10:05|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwininit -role_show=1
+[2944 |2023-01-09 00:10:25|   INFO|KVirtualAssistantCtrl.cpp:49] KVirtualAssistantCtrl::Initialize c:\program files (x86)\kingsoft\kingsoft antivirus\c:\program files (x86)\kingsoft\kingsoft antivirus\app\assistant\
+[2944 |2023-01-09 00:10:25|   INFO|KAppSingleModule.cpp:134] CreateHideWnd
+[2944 |2023-01-09 00:10:25|   INFO|KAppSingleModule.cpp:169] StartMsgLoop
+[2944 |2023-01-09 00:10:40|   INFO|KAppCmdParser.cpp:19] ParseCmd-permission_name=assistant -exit
+[2944 |2023-01-09 00:10:40|   INFO|KAppSingleModule.cpp:99] WM_DESTROY
+[2944 |2023-01-09 00:10:40|   INFO|KAppSingleModule.cpp:177] WM_QUIT
+[3280 |2023-01-09 00:10:44|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwininit -role_show=1
+[3280 |2023-01-09 00:11:04|   INFO|KVirtualAssistantCtrl.cpp:49] KVirtualAssistantCtrl::Initialize c:\program files (x86)\kingsoft\kingsoft antivirus\c:\program files (x86)\kingsoft\kingsoft antivirus\app\assistant\
+[3280 |2023-01-09 00:11:04|   INFO|KAppSingleModule.cpp:134] CreateHideWnd
+[3280 |2023-01-09 00:11:04|   INFO|KAppSingleModule.cpp:169] StartMsgLoop

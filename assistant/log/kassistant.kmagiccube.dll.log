@@ -1,4 +1,30 @@
-[7940 |2023-01-06 16:34:55|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
-[7940 |2023-01-06 16:35:15|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
-[2324 |2023-01-06 16:35:25|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
-[2632 |2023-01-06 16:35:25|   INFO|KMagicCubeImpl.cpp:20] [magic cube] already init
+[7548 |2023-01-09 00:02:20|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[7548 |2023-01-09 00:02:40|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[1632 |2023-01-09 00:02:41|   INFO|KMagicCubeImpl.cpp:20] [magic cube] already init
+[7780 |2023-01-09 00:02:50|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[7780 |2023-01-09 00:02:50|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:02:56|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:03:05|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:03:15|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:03:27|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:03:34|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:03:45|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[7548 |2023-01-09 00:04:19|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:04:23|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:05:02|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:05:53|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:06:03|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:06:08|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:06:42|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:06:51|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[1632 |2023-01-09 00:09:11|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[2944 |2023-01-09 00:10:05|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[2944 |2023-01-09 00:10:25|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[2944 |2023-01-09 00:10:25|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[7596 |2023-01-09 00:10:25|   INFO|KMagicCubeImpl.cpp:20] [magic cube] already init
+[1336 |2023-01-09 00:10:35|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[3280 |2023-01-09 00:10:44|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[3280 |2023-01-09 00:11:04|   INFO|KCfgFileLoader.h:144] [magic cube] file last change time different
+[3280 |2023-01-09 00:11:04|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[7108 |2023-01-09 00:11:14|   INFO|KCfgFileLoader.h:63] [magic cube] file not modify, no need to load again
+[7152 |2023-01-09 00:11:15|   INFO|KMagicCubeImpl.cpp:20] [magic cube] already init
