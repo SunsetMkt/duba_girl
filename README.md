@@ -37,3 +37,5 @@ sound文件夹内为语音文件，未包含在amp文件中。
 
 ## assistant
 自`70001.amp`在一次更新后更改了加密方式，保留整个assistant文件夹，以供后续研究。
+
+哔哩哔哩用户[7485qw](https://space.bilibili.com/7195158)在视频[BV1EW4y1j7hm](https://www.bilibili.com/video/BV1EW4y1j7hm/)提供了富有价值的信息。在视频中提供的提取版保存为`毒霸桌宠.7z`，密码`password`。
