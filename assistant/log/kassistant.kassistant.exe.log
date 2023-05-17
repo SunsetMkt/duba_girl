@@ -1,0 +1,29 @@
+[7668 |2023-05-17 21:18:00|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwininit -role_show=1
+[7668 |2023-05-17 21:18:00|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwininit -role_show=1
+[7668 |2023-05-17 21:18:00|   INFO|KAssistantSupportUtil.cpp:602] kassistant_checkvm_new_v1: process=kassistant.exe type=0 method=0
+[7668 |2023-05-17 21:18:00|   INFO|KAssistantSupportUtil.cpp:559] kassistant_check_opengl_version_new_v1: ret:1, process=kassistant.exe stage=18
+[7668 |2023-05-17 21:18:00|WARNING|KAssistantSupportUtil.cpp:662] _callCheckOpenGLVersion:1
+[7668 |2023-05-17 21:18:00|   INFO|KAssistantSupportUtil.cpp:669] IsHardwareEnvCheckSupportAssistant:1
+[7668 |2023-05-17 21:18:00|   INFO|KAssistantSupportUtil.cpp:673] kassistant_opengl_switch_new_v1: process=kassistant.exe value=1
+[7668 |2023-05-17 21:18:00|   INFO|KDeskParentUtil.cpp:601] kassistant_check_dwm_new_v1: process=kassistant.exe stage=2
+[7668 |2023-05-17 21:18:02|   INFO|KVirtualAssistantCtrl.cpp:49] KVirtualAssistantCtrl::Initialize DubaPathc:\program files (x86)\kingsoft\kingsoft antivirus\
+[7668 |2023-05-17 21:18:02|   INFO|KVirtualAssistantCtrl.cpp:50] Module path:c:\program files (x86)\kingsoft\kingsoft antivirus\app\assistant\
+[7668 |2023-05-17 21:18:02|   INFO|AssistantMgr.cpp:121] stage=finish
+[7668 |2023-05-17 21:18:02|   INFO|KAppSingleModule.cpp:134] CreateHideWnd
+[7668 |2023-05-17 21:18:02|   INFO|KAppSingleModule.cpp:169] StartMsgLoop
+[8628 |2023-05-17 21:18:15|   INFO|kassistant.cpp:113] ParseCmd-preload -apply_role=70001
+[7668 |2023-05-17 21:18:15|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -apply_role=70001
+[3048 |2023-05-17 21:18:15|   INFO|kassistant.cpp:113] ParseCmd-preload -apply_role=70001
+[7668 |2023-05-17 21:18:15|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -apply_role=70001
+[4044 |2023-05-17 21:18:16|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7668 |2023-05-17 21:18:16|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
+[6304 |2023-05-17 21:18:16|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7668 |2023-05-17 21:18:16|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
+[3476 |2023-05-17 21:18:44|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwin -role_show=0
+[7668 |2023-05-17 21:18:44|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=0
+[6556 |2023-05-17 21:18:55|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7668 |2023-05-17 21:18:55|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1
+[3748 |2023-05-17 21:18:59|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwin -role_show=0
+[7668 |2023-05-17 21:18:59|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=0
+[5496 |2023-05-17 21:19:05|   INFO|kassistant.cpp:113] ParseCmd-preload -from=smallfloatwin -role_show=1
+[7668 |2023-05-17 21:19:05|   INFO|KAppCmdParser.cpp:19] ParseCmd-preload -from=smallfloatwin -role_show=1

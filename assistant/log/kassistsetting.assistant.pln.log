@@ -1,0 +1,18 @@
+[9092 |2023-05-17 21:18:13|   INFO|KAssistantSupportUtil.cpp:602] kassistant_checkvm_new_v1: process=kassistsetting.exe type=0 method=0
+[9092 |2023-05-17 21:18:13|   INFO|KAssistantSupportUtil.cpp:559] kassistant_check_opengl_version_new_v1: ret:1, process=kassistsetting.exe stage=18
+[9092 |2023-05-17 21:18:13|WARNING|KAssistantSupportUtil.cpp:662] _callCheckOpenGLVersion:1
+[9092 |2023-05-17 21:18:13|   INFO|KAssistantSupportUtil.cpp:669] IsHardwareEnvCheckSupportAssistant:1
+[9092 |2023-05-17 21:18:13|   INFO|KAssistantSupportUtil.cpp:673] kassistant_opengl_switch_new_v1: process=kassistsetting.exe value=1
+[9092 |2023-05-17 21:18:13|   INFO|KDeskParentUtil.cpp:601] kassistant_check_dwm_new_v1: process=kassistsetting.exe stage=2
+[9092 |2023-05-17 21:18:15|   INFO|KAssistantSupportUtil.cpp:669] IsHardwareEnvCheckSupportAssistant:1
+[9092 |2023-05-17 21:18:15|   INFO|KAssistantSupportUtil.cpp:673] kassistant_opengl_switch_new_v1: process=kassistsetting.exe value=1
+[9092 |2023-05-17 21:18:15|   INFO|KDeskParentUtil.cpp:601] kassistant_check_dwm_new_v1: process=kassistsetting.exe stage=2
+[9092 |2023-05-17 21:18:15|   INFO|KAssistantSupportUtil.cpp:669] IsHardwareEnvCheckSupportAssistant:1
+[9092 |2023-05-17 21:18:15|   INFO|KAssistantSupportUtil.cpp:673] kassistant_opengl_switch_new_v1: process=kassistsetting.exe value=1
+[9092 |2023-05-17 21:18:15|   INFO|KDeskParentUtil.cpp:601] kassistant_check_dwm_new_v1: process=kassistsetting.exe stage=2
+[9092 |2023-05-17 21:18:16|   INFO|KAssistantSupportUtil.cpp:669] IsHardwareEnvCheckSupportAssistant:1
+[9092 |2023-05-17 21:18:16|   INFO|KAssistantSupportUtil.cpp:673] kassistant_opengl_switch_new_v1: process=kassistsetting.exe value=1
+[9092 |2023-05-17 21:18:16|   INFO|KDeskParentUtil.cpp:601] kassistant_check_dwm_new_v1: process=kassistsetting.exe stage=2
+[9092 |2023-05-17 21:18:16|   INFO|KAssistantSupportUtil.cpp:669] IsHardwareEnvCheckSupportAssistant:1
+[9092 |2023-05-17 21:18:16|   INFO|KAssistantSupportUtil.cpp:673] kassistant_opengl_switch_new_v1: process=kassistsetting.exe value=1
+[9092 |2023-05-17 21:18:16|   INFO|KDeskParentUtil.cpp:601] kassistant_check_dwm_new_v1: process=kassistsetting.exe stage=2
