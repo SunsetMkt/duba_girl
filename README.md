@@ -18,7 +18,7 @@ sound文件夹内为语音文件，未包含在amp文件中。
 文件夹内是金山毒霸青春版的宣传页，包含“金山毒霸吉祥物”/“[毒霸少女](https://space.bilibili.com/1266594350)”的Lottie动画。
 
 ## young.duba.net.new
-更新后官网Lottie动画，只保留有价值的部分，Spirite以Base64编码存储。
+更新后官网Lottie动画，只保留有价值的部分，Spirit以Base64编码存储。
 
 ## lottie
 文件夹内包含index和“金山毒霸吉祥物”/“毒霸少女”动画的剥离版。
@@ -30,7 +30,7 @@ sound文件夹内为语音文件，未包含在amp文件中。
 使用Starrah/BilibiliGetDynamics保存[毒霸少女](https://space.bilibili.com/1266594350)的哔哩哔哩动态内容
 
 ## vids
-使用[nilaoda/BBDown](https://github.com/nilaoda/BBDown)下载[毒霸少女](https://space.bilibili.com/1266594350)的哔哩哔哩视频
+使用[nilaoda/BBDown](https://github.com/nilaoda/BBDown)下载[毒霸少女](https://space.bilibili.com/1266594350)的哔哩哔哩视频（不再更新）
 
 ## wallpaper
 金山毒霸青春版护眼模式壁纸，缓存位置`%APPDATA%\khealtheye\wallpaper\`，尚未获得壁纸更新API。
